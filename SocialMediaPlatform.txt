@@ -1,0 +1,160 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2025-11-02 17:36:05
+LastUsageStatisticCall<|||>1<|||>2025-10-24 11:21:50
+LastSessions<|||>1<|||>Database server
+LastActiveSession<|||>1<|||>Database server
+SessionManager_WindowHeight<|||>3<|||>470
+SessionManager_WindowLeft<|||>3<|||>316
+SessionManager_WindowTop<|||>3<|||>169
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+dbtreewidth<|||>3<|||>130
+FilterPanel<|||>3<|||>0
+MainWinOnMonitor<|||>3<|||>0
+MainWinLeft<|||>3<|||>928
+MainWinTop<|||>3<|||>0
+MainWinWidth<|||>3<|||>667
+MainWinHeight<|||>3<|||>678
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,316
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,316,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,191
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,256
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+MainWinMaximized<|||>3<|||>1
+SQLFile0<|||>1<|||>C:\Users\chanj\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-10-26_16-25-24-501.sql
+SQLFile1<|||>1<|||>C:\Users\chanj\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-10-24_14-19-00-822.sql
+SQLFile2<|||>1<|||>C:\Users\chanj\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-10-24_12-31-47-594.sql
+SQLFile3<|||>1<|||>C:\Users\chanj\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-10-24_11-21-48-727.sql
+SQLFile4<|||>1<|||>C:\Users\chanj\OneDrive\Documents\select demo (query).sql
+Servers\Database server\SessionCreated<|||>1<|||>2025-10-24 11:22:11
+Servers\Database server\Host<|||>1<|||>127.0.0.1
+Servers\Database server\WindowsAuth<|||>3<|||>0
+Servers\Database server\CleartextPluginEnabled<|||>3<|||>0
+Servers\Database server\User<|||>1<|||>root
+Servers\Database server\Password<|||>1<|||>1
+Servers\Database server\LoginPrompt<|||>3<|||>0
+Servers\Database server\Port<|||>1<|||>3306
+Servers\Database server\NetType<|||>3<|||>0
+Servers\Database server\Compressed<|||>3<|||>0
+Servers\Database server\LocalTimeZone<|||>3<|||>0
+Servers\Database server\QueryTimeout<|||>3<|||>30
+Servers\Database server\KeepAlive<|||>3<|||>20
+Servers\Database server\FullTableStatus<|||>3<|||>1
+Servers\Database server\Databases<|||>1<|||>
+Servers\Database server\Library<|||>1<|||>libmariadb.dll
+Servers\Database server\Comment<|||>1<|||>
+Servers\Database server\StartupScriptFilename<|||>1<|||>
+Servers\Database server\TreeBackground<|||>3<|||>536870911
+Servers\Database server\SSHtunnelActive<|||>3<|||>0
+Servers\Database server\SshExecutable<|||>1<|||>
+Servers\Database server\SSHtunnelHost<|||>1<|||>
+Servers\Database server\SSHtunnelHostPort<|||>3<|||>22
+Servers\Database server\SSHtunnelUser<|||>1<|||>
+Servers\Database server\SSHtunnelPassword<|||>1<|||>3
+Servers\Database server\SSHtunnelTimeout<|||>3<|||>4
+Servers\Database server\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Database server\SSHtunnelPort<|||>3<|||>3307
+Servers\Database server\SSL_Active<|||>3<|||>0
+Servers\Database server\SSL_Key<|||>1<|||>
+Servers\Database server\SSL_Cert<|||>1<|||>
+Servers\Database server\SSL_CA<|||>1<|||>
+Servers\Database server\SSL_Cipher<|||>1<|||>
+Servers\Database server\SSL_Verification<|||>3<|||>2
+Servers\Database server\IgnoreDatabasePattern<|||>1<|||>
+Servers\Database server\LogFileDdl<|||>3<|||>0
+Servers\Database server\LogFileDml<|||>3<|||>0
+Servers\Database server\LogFilePath<|||>1<|||>C:\Users\chanj\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Database server\ServerVersionFull<|||>1<|||>8.0.43 - MySQL Community Server - GPL
+Servers\Database server\ConnectCount<|||>3<|||>3
+Servers\Database server\ServerVersion<|||>3<|||>80043
+Servers\Database server\LastConnect<|||>1<|||>2025-11-02 17:36:32
+Servers\Database server\lastUsedDB<|||>1<|||>
+Servers\Database server\QueryHistory\1<|||>1<|||>2025-10-24 12:11:20||0|SELECT USER(),VERSION();
+Servers\Database server\QueryHistory\2<|||>1<|||>2025-10-24 12:14:40||0|SELECT CURRENT_DATE, NOW();
+Servers\Database server\QueryHistory\5<|||>1<|||>2025-10-24 12:19:39||0|SELECT 100+200;
+Servers\Database server\QueryHistory\4<|||>1<|||>2025-10-24 12:20:01||47|CREATE DATABASE myfashiondb;
+Servers\Database server\QueryHistory\6<|||>1<|||>2025-10-24 12:33:02|classicmodels|0|USE classicmodels;
+Servers\Database server\QueryHistory\8<|||>1<|||>2025-10-24 12:33:44|classicmodels|0|SELECT * FROM customers;
+Servers\Database server\QueryHistory\9<|||>1<|||>2025-10-24 14:25:04|classicmodels|16|SELECT employeeNumber,lastname,firstname,jobTitle,officeCode<{{{><}}}>         FROM employees<{{{><}}}>                   WHERE officeCode BETWEEN 1 AND 3;
+Servers\Database server\QueryHistory\10<|||>1<|||>2025-10-24 14:29:56|classicmodels|0|SELECT * FROM orders WHERE shippedDate BETWEEN '2004-01-01' AND '2004-03-31';
+Servers\Database server\QueryHistory\11<|||>1<|||>2025-10-24 14:34:25|classicmodels|0| SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE lastname LIKE '%son';
+Servers\Database server\QueryHistory\12<|||>1<|||>2025-10-24 14:36:06|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE lastname LIKE 'B%';
+Servers\Database server\QueryHistory\13<|||>1<|||>2025-10-24 14:36:56|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE lastname LIKE 'B%' OR firstName LIKE 'd%';
+Servers\Database server\QueryHistory\14<|||>1<|||>2025-10-24 14:39:35|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE lastname LIKE 'B%' OR firstName LIKE '_arry';
+Servers\Database server\QueryHistory\15<|||>1<|||>2025-10-24 14:41:39|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE firstName LIKE '_arry';
+Servers\Database server\QueryHistory\16<|||>1<|||>2025-10-24 14:43:19|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE firstName LIKE 'A&';
+Servers\Database server\QueryHistory\17<|||>1<|||>2025-10-24 14:43:42|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE firstName LIKE 'A%';
+Servers\Database server\QueryHistory\18<|||>1<|||>2025-10-24 14:44:13|classicmodels|16|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE firstName NOT LIKE 'A%';
+Servers\Database server\QueryHistory\19<|||>1<|||>2025-10-24 14:48:57|classicmodels|0|SELECT employeeNumber,firstname,jobTitle,email,officeCode<{{{><}}}>           FROM employees<{{{><}}}>                     WHERE officeCode = 1 OR officeCode = 5 OR officeCode = 7;
+Servers\Database server\QueryHistory\20<|||>1<|||>2025-10-24 14:55:38|classicmodels|0|SELECT * FROM customers WHERE contactLastName IN('Young', 'Smith');
+Servers\Database server\QueryHistory\21<|||>1<|||>2025-10-24 14:55:58|classicmodels|0|SELECT * FROM customers WHERE contactLastName NOT IN('Taylor', 'Brown');
+Servers\Database server\QueryHistory\22<|||>1<|||>2025-10-24 14:59:52|classicmodels|0|SELECT employeeNumber,lastname,firstname,jobTitle,email,reportsTo<{{{><}}}>        FROM employees<{{{><}}}>               WHERE reportsTo IS NULL;
+Servers\Database server\QueryHistory\23<|||>1<|||>2025-10-24 15:01:46|classicmodels|0|SELECT * FROM orders;
+Servers\Database server\QueryHistory\24<|||>1<|||>2025-10-24 15:03:08|classicmodels|0|SELECT * FROM orders WHERE comments IS NULL;
+Servers\Database server\QueryHistory\25<|||>1<|||>2025-10-24 15:03:38|classicmodels|0|SELECT * FROM orders WHERE comments IS NOT NULL;
+Servers\Database server\QueryHistory\26<|||>1<|||>2025-10-24 15:05:53|classicmodels|0|SELECT * FROM customers WHERE phone IS NULL;
+Servers\Database server\QueryHistory\27<|||>1<|||>2025-10-24 15:09:18|classicmodels|0|SELECT employeeNumber,lastname,firstname,jobTitle,email,reportsTo<{{{><}}}>            FROM employees<{{{><}}}>                     WHERE jobTitle <> 'Sales rep';
+Servers\Database server\QueryHistory\28<|||>1<|||>2025-10-24 15:11:48|classicmodels|0|DESC products;
+Servers\Database server\QueryHistory\29<|||>1<|||>2025-10-24 15:12:00|classicmodels|0|SELECT * FROM products;
+Servers\Database server\QueryHistory\30<|||>1<|||>2025-10-24 15:12:14|classicmodels|0|SELECT * FROM products WHERE buyprice >= 50 AND buyprice <150;
+Servers\Database server\QueryHistory\31<|||>1<|||>2025-10-24 15:16:04|classicmodels|0|SELECT contactLastName, contactFirstName FROM customers;
+Servers\Database server\QueryHistory\32<|||>1<|||>2025-10-24 15:16:45|classicmodels|0|SELECT contactLastName, contactFirstName FROM customers<{{{><}}}>                                                   ORDER BY contactLastName;
+Servers\Database server\QueryHistory\33<|||>1<|||>2025-10-24 15:19:13|classicmodels|0|SELECT contactLastName, contactFirstName FROM customers<{{{><}}}>                                                   ORDER BY contactLastName DESC;
+Servers\Database server\QueryHistory\34<|||>1<|||>2025-10-24 15:24:53|classicmodels|0|SELECT productCode,productName,quantityInStock, buyPrice<{{{><}}}>            FROM products<{{{><}}}>                  ORDER BY 3 DESC;
+Servers\Database server\QueryHistory\35<|||>1<|||>2025-10-24 15:55:59|classicmodels|0|SELECT contactLastName, contactFirstName<{{{><}}}>             FROM customers<{{{><}}}>                   ORDER BY contactLastName,contactFirstName DESC;
+Servers\Database server\QueryHistory\36<|||>1<|||>2025-10-24 16:35:28|classicmodels|15|SELECT * FROM customers LIMIT 5 OFFSET 4;
+Servers\Database server\QueryHistory\37<|||>1<|||>2025-10-26 16:25:47|myfashiondb|0|CREATE DATABASE SCHOOLDATA;
+Servers\Database server\QueryHistory\38<|||>1<|||>2025-10-26 16:26:24|myfashiondb|0|CREATE DATABASE MyData;
+Servers\Database server\QueryHistory\39<|||>1<|||>2025-10-26 16:27:43|myfashiondb|15|CREATE DATABASE CompanyDB;
+Servers\Database server\QueryHistory\40<|||>1<|||>2025-10-26 16:28:27|CompanyDB|0|USE CompanyDB;
+Servers\Database server\QueryHistory\42<|||>1<|||>2025-11-02 17:59:56|instagram_clone|93|CREATE TABLE Users ( <{{{><}}}>   user_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>   username VARCHAR(50) UNIQUE NOT NULL,<{{{><}}}>   email VARCHAR(100) UNIQUE NOT NULL,<{{{><}}}>   password VARCHAR(255) NOT NULL,<{{{><}}}>   full_name VARCHAR(100),<{{{><}}}>   bio TEXT,<{{{><}}}>   profile_pic VARCHAR(255),<{{{><}}}>   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP<{{{><}}}>);
+Servers\Database server\QueryHistory\41<|||>1<|||>2025-11-02 18:08:21|instagram_clone|78|CREATE TABLE Users (<{{{><}}}>    user_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    username VARCHAR(50) UNIQUE NOT NULL,<{{{><}}}>    email VARCHAR(100) UNIQUE NOT NULL,<{{{><}}}>    password VARCHAR(255) NOT NULL,<{{{><}}}>    full_name VARCHAR(100),<{{{><}}}>    bio TEXT,<{{{><}}}>    profile_pic VARCHAR(255),<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP<{{{><}}}>);
+Servers\Database server\QueryHistory\47<|||>1<|||>2025-11-02 18:26:12|instagram_clone|16|INSERT INTO Users (username, email, password, full_name, bio, profile_pic)<{{{><}}}>VALUES <{{{><}}}>('anjana', 'anjana@email.com', 'pass123', 'Anjana Prathima', 'ECE Grad', 'anjana.jpg'),<{{{><}}}>('ram', 'ram@email.com', 'pass123', 'Ram Kumar', 'Photographer', 'ram.jpg'),<{{{><}}}>('sita', 'sita@email.com', 'pass123', 'Sita Rao', 'Traveler', 'sita.jpg');
+Servers\Database server\QueryHistory\48<|||>1<|||>2025-11-02 18:26:24|instagram_clone|16|INSERT INTO Posts (user_id, image_url, caption)<{{{><}}}>VALUES <{{{><}}}>(1, 'photo1.jpg', 'Enjoying my day!'),<{{{><}}}>(2, 'photo2.jpg', 'Beautiful sunset!');
+Servers\Database server\QueryHistory\50<|||>1<|||>2025-11-02 18:32:20|instagram_clone|0|INSERT INTO Comments (post_id, user_id, comment_text)<{{{><}}}>VALUES<{{{><}}}>(1, 2, 'Nice picture!'),<{{{><}}}>(2, 1, 'Love this shot!');
+Servers\Database server\QueryHistory\52<|||>1<|||>2025-11-02 18:32:51|instagram_clone|15|<{{{><}}}>INSERT INTO Likes (post_id, user_id)<{{{><}}}>VALUES<{{{><}}}>(1, 3),<{{{><}}}>(2, 1);
+Servers\Database server\QueryHistory\53<|||>1<|||>2025-11-02 18:33:00|instagram_clone|93|CREATE TABLE Followers (<{{{><}}}>    follower_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    follower_user_id INT NOT NULL,<{{{><}}}>    following_user_id INT NOT NULL,<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    FOREIGN KEY (follower_user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE,<{{{><}}}>    FOREIGN KEY (following_user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE<{{{><}}}>);<{{{><}}}>
+Servers\Database server\QueryHistory\54<|||>1<|||>2025-11-02 18:33:12|instagram_clone|0|INSERT INTO Followers (follower_user_id, following_user_id)<{{{><}}}>VALUES<{{{><}}}>(2, 1),<{{{><}}}>(3, 1);
+Servers\Database server\QueryHistory\56<|||>1<|||>2025-11-02 18:35:11|instagram_clone|15|SELECT * FROM Posts;
+Servers\Database server\QueryHistory\57<|||>1<|||>2025-11-02 19:04:59|instagram_clone|125|DROP DATABASE instagram_clone;
+Servers\Database server\QueryHistory\44<|||>1<|||>2025-11-02 19:05:12|instagram_clone|15|SHOW DATABASES;
+Servers\Database server\QueryHistory\45<|||>1<|||>2025-11-02 19:05:42|instagram_clone|0|CREATE DATABASE instagram_clone;
+Servers\Database server\QueryHistory\3<|||>1<|||>2025-11-02 19:05:47|instagram_clone|0|USE instagram_clone;
+Servers\Database server\QueryHistory\43<|||>1<|||>2025-11-02 19:08:21|instagram_clone|62|CREATE TABLE Users (<{{{><}}}>    user_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    username VARCHAR(50) UNIQUE NOT NULL,<{{{><}}}>    email VARCHAR(100) UNIQUE NOT NULL,<{{{><}}}>    password VARCHAR(255) NOT NULL,<{{{><}}}>    full_name VARCHAR(100),<{{{><}}}>    bio TEXT,<{{{><}}}>    profile_pic VARCHAR(255),<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP<{{{><}}}>);<{{{><}}}>
+Servers\Database server\QueryHistory\58<|||>1<|||>2025-11-02 19:08:44|instagram_clone|94|CREATE TABLE Posts (<{{{><}}}>    post_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    user_id INT NOT NULL,<{{{><}}}>    image_url VARCHAR(255),<{{{><}}}>    caption TEXT,<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    FOREIGN KEY (user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE<{{{><}}}>);
+Servers\Database server\QueryHistory\46<|||>1<|||>2025-11-02 19:09:01|instagram_clone|94|CREATE TABLE Comments (<{{{><}}}>    comment_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    post_id INT NOT NULL,<{{{><}}}>    user_id INT NOT NULL,<{{{><}}}>    comment_text TEXT NOT NULL,<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    FOREIGN KEY (post_id) REFERENCES Posts(post_id)<{{{><}}}>        ON DELETE CASCADE,<{{{><}}}>    FOREIGN KEY (user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE<{{{><}}}>);
+Servers\Database server\QueryHistory\49<|||>1<|||>2025-11-02 19:17:13|instagram_clone|0|INSERT INTO Users (username, email, password, full_name, bio, profile_pic)<{{{><}}}>VALUES<{{{><}}}>('anjana', 'anjana@email.com', 'pass123', 'Anjana Prathima', 'Tech Enthusiast', 'anjana.jpg'),<{{{><}}}>('shannu', 'shannu@email.com', 'pass123', 'Shannu', 'Photographer', 'ram.jpg'),<{{{><}}}>('meghu', 'sita@email.com', 'pass123', 'Sita Rao', 'Food Blogger', 'sita.jpg'),<{{{><}}}>('nikhil', 'arjun@email.com', 'pass123', 'Arjun Das', 'DJ', 'arjun.jpg'),<{{{><}}}>('john', 'meera@email.com', 'pass123', 'Meera Nair', 'Artist', 'meera.jpg'),<{{{><}}}>('harsha', 'vijay@email.com', 'pass123', 'Vijay Anand', 'Model', 'vijay.jpg'),<{{{><}}}>('chandu', 'kavya@email.com', 'pass123', 'Kavya Iyer', 'Blogger', 'kavya.jpg'),<{{{><}}}>('ravi', 'rahul@email.com', 'pass123', 'Rahul Menon', 'Software Engineer', 'rahul.jpg'),<{{{><}}}>('neha', 'neha@email.com', 'pass123', 'Neha Sharma', 'Foodie', 'neha.jpg'),<{{{><}}}>('tanya', 'tanya@email.com', 'pass123', 'Tanya Raj', 'Entrepreneur', 'tanya.jpg');
+Servers\Database server\QueryHistory\59<|||>1<|||>2025-11-02 19:29:13|instagram_clone|15|INSERT INTO Posts (user_id, image_url, caption)<{{{><}}}>VALUES<{{{><}}}>(1, 'coffee.jpg', 'Morning motivation'),<{{{><}}}>(2, 'sunset.jpg', 'Beautiful sunset'),<{{{><}}}>(3, 'travel.jpg', 'Lost in nature'),<{{{><}}}>(4, 'music.jpg', 'New beats coming soon'),<{{{><}}}>(5, 'art.jpg', 'My new painting'),<{{{><}}}>(6, 'gym.jpg', 'No pain, no gain'),<{{{><}}}>(7, 'design.jpg', 'Working on new UI design'),<{{{><}}}>(8, 'office.jpg', 'Coding life'),<{{{><}}}>(9, 'food.jpg', 'Homemade pasta'),<{{{><}}}>(10, 'book.jpg', 'Sunday reading');
+Servers\Database server\QueryHistory\60<|||>1<|||>2025-11-02 19:50:41|instagram_clone|0|DELETE FROM Comments;
+Servers\Database server\QueryHistory\61<|||>1<|||>2025-11-02 19:51:25|instagram_clone|0|INSERT INTO Posts (user_id, image_url, caption)<{{{><}}}>VALUES<{{{><}}}>(1, 'coffee.jpg', 'Morning motivation'),<{{{><}}}>(2, 'sunset.jpg', 'Sunset vibes'),<{{{><}}}>(3, 'travel.jpg', 'Lost in nature'),<{{{><}}}>(4, 'music.jpg', 'New beats loading'),<{{{><}}}>(5, 'art.jpg', 'My new painting'),<{{{><}}}>(6, 'gym.jpg', 'No pain, no gain'),<{{{><}}}>(7, 'design.jpg', 'Working on UI redesign'),<{{{><}}}>(8, 'office.jpg', 'Coding life'),<{{{><}}}>(9, 'food.jpg', 'Homemade pasta'),<{{{><}}}>(10, 'book.jpg', 'Sunday reads'),<{{{><}}}>(2, 'nature.jpg', 'Mountain mornings'),<{{{><}}}>(3, 'streetfood.jpg', 'Best street food ever'),<{{{><}}}>(5, 'digitalart.jpg', 'Digital sketch'),<{{{><}}}>(6, 'training.jpg', 'Back to training');
+Servers\Database server\QueryHistory\62<|||>1<|||>2025-11-02 19:51:49|instagram_clone|0|INSERT INTO Comments (post_id, user_id, comment_text)<{{{><}}}>VALUES<{{{><}}}>(1, 2, 'Love the coffee vibe!'),<{{{><}}}>(2, 3, 'Perfect morning setup'),<{{{><}}}>(3, 1, 'This view is everything!'),<{{{><}}}>(4, 5, 'So peaceful and calm'),<{{{><}}}>(5, 6, 'Drop it soon bro'),<{{{><}}}>(6, 7, 'Beautiful artwork'),<{{{><}}}>(7, 1, 'Really inspiring'),<{{{><}}}>(8, 8, 'Clean design and layout'),<{{{><}}}>(9, 3, 'So relatable'),<{{{><}}}>(10, 5, 'Looks delicious!'),<{{{><}}}>(11, 4, 'What book are you reading?'),<{{{><}}}>(12, 9, 'Breathtaking shot!'),<{{{><}}}>(13, 2, 'Yummm, looks tasty'),<{{{><}}}>(14, 1, 'This looks so creative!'),<{{{><}}}>(15, 3, 'Keep working hard');
+Servers\Database server\QueryHistory\63<|||>1<|||>2025-11-02 19:52:36|instagram_clone|62|CREATE TABLE Likes (<{{{><}}}>    like_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    post_id INT NOT NULL,<{{{><}}}>    user_id INT NOT NULL,<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    FOREIGN KEY (post_id) REFERENCES Posts(post_id)<{{{><}}}>        ON DELETE CASCADE,<{{{><}}}>    FOREIGN KEY (user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE<{{{><}}}>);
+Servers\Database server\QueryHistory\51<|||>1<|||>2025-11-02 19:52:45|instagram_clone|0|INSERT INTO Likes (post_id, user_id)<{{{><}}}>VALUES<{{{><}}}>(1, 3), (1, 4), (1, 5),<{{{><}}}>(2, 1), (2, 6), (2, 7),<{{{><}}}>(3, 1), (3, 2), (3, 5), (3, 8),<{{{><}}}>(4, 2), (4, 5), (4, 6),<{{{><}}}>(5, 1), (5, 4), (5, 7),<{{{><}}}>(6, 3), (6, 5), (6, 8),<{{{><}}}>(7, 1), (7, 2), (7, 4),<{{{><}}}>(8, 2), (8, 6), (8, 7),<{{{><}}}>(9, 3), (9, 5), (9, 8),<{{{><}}}>(10, 1), (10, 4), (10, 7),<{{{><}}}>(11, 2), (11, 3),<{{{><}}}>(12, 4), (12, 6),<{{{><}}}>(13, 5), (13, 7),<{{{><}}}>(14, 8), (14, 1);
+Servers\Database server\QueryHistory\64<|||>1<|||>2025-11-02 19:53:08|instagram_clone|47|CREATE TABLE Followers (<{{{><}}}>    follower_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    follower_user_id INT NOT NULL,<{{{><}}}>    following_user_id INT NOT NULL,<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    FOREIGN KEY (follower_user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE,<{{{><}}}>    FOREIGN KEY (following_user_id) REFERENCES Users(user_id)<{{{><}}}>        ON DELETE CASCADE<{{{><}}}>);
+Servers\Database server\QueryHistory\65<|||>1<|||>2025-11-02 19:53:15|instagram_clone|16|INSERT INTO Followers (follower_user_id, following_user_id)<{{{><}}}>VALUES<{{{><}}}>(2, 1), (3, 1), (4, 1), (5, 1),<{{{><}}}>(1, 2), (3, 2), (5, 2),<{{{><}}}>(1, 3), (2, 3), (6, 3),<{{{><}}}>(4, 5), (5, 4), (7, 4),<{{{><}}}>(3, 5), (6, 5), (8, 5),<{{{><}}}>(4, 6), (7, 6), (2, 6),<{{{><}}}>(8, 7), (1, 7), (3, 7),<{{{><}}}>(5, 8), (6, 8), (9, 8),<{{{><}}}>(10, 9), (1, 9), (3, 9),<{{{><}}}>(7, 10), (2, 10), (5, 10);
+Servers\Database server\QueryHistory\66<|||>1<|||>2025-11-02 19:53:39|instagram_clone|16|SHOW TABLES;
+Servers\Database server\QueryHistory\55<|||>1<|||>2025-11-02 19:53:49|instagram_clone|0|SELECT * FROM Users;
+Servers\Database server\QueryHistory\7<|||>1<|||>2025-11-02 20:02:58|instagram_clone|0|DELETE FROM users;
+Servers\Database server\QueryHistory\67<|||>1<|||>2025-11-02 20:03:05|instagram_clone|16|INSERT INTO Users (username, email, password, full_name, bio, profile_pic)<{{{><}}}>VALUES<{{{><}}}>('anjana', 'anjana@email.com', 'pass123', 'Anjana Prathima', 'Tech Enthusiast', 'anjana.jpg'),<{{{><}}}>('ram', 'ram@email.com', 'pass123', 'Ram Kumar', 'Photographer', 'ram.jpg'),<{{{><}}}>('sita', 'sita@email.com', 'pass123', 'Sita Rao', 'Food Blogger', 'sita.jpg'),<{{{><}}}>('arjun', 'arjun@email.com', 'pass123', 'Arjun Das', 'Music Producer', 'arjun.jpg'),<{{{><}}}>('meera', 'meera@email.com', 'pass123', 'Meera Nair', 'Artist', 'meera.jpg'),<{{{><}}}>('vijay', 'vijay@email.com', 'pass123', 'Vijay Anand', 'Fitness Coach', 'vijay.jpg'),<{{{><}}}>('kavya', 'kavya@email.com', 'pass123', 'Kavya Iyer', 'UX Designer', 'kavya.jpg'),<{{{><}}}>('rahul', 'rahul@email.com', 'pass123', 'Rahul Menon', 'Software Engineer', 'rahul.jpg'),<{{{><}}}>('neha', 'neha@email.com', 'pass123', 'Neha Sharma', 'Traveler', 'neha.jpg'),<{{{><}}}>('tanya', 'tanya@email.com', 'pass123', 'Tanya Raj', 'Writer', 'tanya.jpg');
